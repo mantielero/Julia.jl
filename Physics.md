@@ -46,7 +46,8 @@
 + [Granular.jl](https://github.com/anders-dc/Granular.jl) :: Julia package for granular dynamics simulation.
 + [hydro](http://github.com/natj/hydro) :: Fairly simple, relatively small & mildly interesting hydrodynamic code.
    + [A video of the _hydro_ code in use](https://vimeo.com/95607699)
-+ [LatBo.jl](https://github.com/UCL/LatBo.jl) :: Lattice-Boltzmann implementation in Julia.
++ [LatBo.jl](https://github.com/UCL/LatBo.jl) :: Lattice-Boltzmann implementation in Julia ([unmantained](https://github.com/UCL/LatBo.jl/issues/18)).
++ [lbxflow](https://github.com/grasingerm/lbxflow) ::  Lattice Boltzmann method implemented in julia
 
 ----
 
